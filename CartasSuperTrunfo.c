@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+  
     printf("Estado Rio de Janeiro: \n");
     scanf("%s", &R01);
     Carta 1: 
